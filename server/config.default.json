@@ -1,0 +1,10 @@
+{
+  "port": 3000,
+  "theme": "reactjs",
+  "debug": false,
+  "database": {
+    "name": "ice_note",
+    "user": "root",
+    "pwd": "123"
+  }
+}

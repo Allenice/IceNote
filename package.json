@@ -1,0 +1,12 @@
+{
+  "name": "ice-note",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "supervisor -i public app.js"
+  },
+  "dependencies": {
+    "mysql": "^2.7.0",
+    "routes": "^2.0.0",
+    "sequelize": "^3.1.1"
+  }
+}
