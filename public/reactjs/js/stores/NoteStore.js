@@ -25,7 +25,7 @@ var NoteStore = assign({}, EventEmitter.prototype, {
     return _view;
   },
 
-  // 返回要编辑的比较
+  // 返回要编辑的笔记
   getNote: function () {
     return _curNote;
   },
